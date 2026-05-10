@@ -1,0 +1,15 @@
+# Python
+backend/__pycache__/
+backend/venv/
+backend/.env
+
+# Next.js
+frontend/.next/
+frontend/node_modules/
+
+# Repomix
+repomix-output.xml
+
+# Misc
+*.pyc
+.DS_Store
